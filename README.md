@@ -1,2 +1,3 @@
 # testrepo_2
-Repo for testing github
+blaid
+mari néni
